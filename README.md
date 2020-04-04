@@ -21,7 +21,7 @@ Escrever programa, em qualquer linguagem de programação, que faça uma requisi
 
 Para encontrar o seu token , acesse a plataforma Codenation, faça o login e a informação estará na tela, conforme no exemplo abaixo:
 
-<IMAGE>
+![token](https://user-images.githubusercontent.com/25038552/78458807-996f6400-768a-11ea-8fa1-a2d20e0d7b49.png)
 
 O resultado da requisição vai ser um JSON conforme o exemplo:
 
