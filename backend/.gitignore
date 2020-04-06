@@ -12,7 +12,7 @@
 /build
 /uploads
 
-answer.json
+answer
 # misc
 .DS_Store
 .env
